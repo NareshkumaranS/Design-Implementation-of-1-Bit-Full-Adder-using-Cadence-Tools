@@ -14,7 +14,10 @@ S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIM
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
+•	virtuoso
+
+![WhatsApp Image 2024-11-19 at 21 31 54_908a9f31](https://github.com/user-attachments/assets/9c9c6309-70e2-49d7-bb85-9a66c669a381)
+
 Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
@@ -48,7 +51,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+![WhatsApp Image 2024-11-19 at 21 34 05_006154fe](https://github.com/user-attachments/assets/4ffeee42-2900-4fb7-a30c-91eeca0eba9a)
+
 
 
  
@@ -81,7 +85,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![WhatsApp Image 2024-11-19 at 21 33 51_f0560b99](https://github.com/user-attachments/assets/725ddbc4-5f60-4926-9b9f-22d3e473ce6e)
+
 
  
 Analog simulation by SPECTRE.
